@@ -9,7 +9,7 @@
 	"author": "Nithish",
 	"license": "ISC",
 	"devDependencies": {
-		"html-webpack-plugin": "^4.3.0"
+		"html-webpack-plugin": "^5.5.0"
 	},
 	"dependencies": {
 		"express": "^4.17.1",
